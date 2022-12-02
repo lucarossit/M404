@@ -1,0 +1,15 @@
+C:\projects\M404\bin\Debug\net6.0\M404.exe
+C:\projects\M404\bin\Debug\net6.0\M404.deps.json
+C:\projects\M404\bin\Debug\net6.0\M404.runtimeconfig.json
+C:\projects\M404\bin\Debug\net6.0\M404.dll
+C:\projects\M404\bin\Debug\net6.0\M404.pdb
+C:\projects\M404\obj\Debug\net6.0\M404.csproj.AssemblyReference.cache
+C:\projects\M404\obj\Debug\net6.0\M404.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\M404\obj\Debug\net6.0\M404.AssemblyInfoInputs.cache
+C:\projects\M404\obj\Debug\net6.0\M404.AssemblyInfo.cs
+C:\projects\M404\obj\Debug\net6.0\M404.csproj.CoreCompileInputs.cache
+C:\projects\M404\obj\Debug\net6.0\M404.dll
+C:\projects\M404\obj\Debug\net6.0\refint\M404.dll
+C:\projects\M404\obj\Debug\net6.0\M404.pdb
+C:\projects\M404\obj\Debug\net6.0\M404.genruntimeconfig.cache
+C:\projects\M404\obj\Debug\net6.0\ref\M404.dll

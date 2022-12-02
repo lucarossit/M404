@@ -1,0 +1,22 @@
+Date        Time       Message                    Priority
+------------------------------------------------------------
+11.11.2022  15:47:44   Everything OK              Low
+11.11.2022  15:47:44   RAM is full                high
+11.11.2022  15:47:44   Everything OK              Low
+11.11.2022  15:47:44   Pc is going to die         high
+11.11.2022  15:47:44   Harddisk is full           high
+11.11.2022  15:47:44   Something went wrong       medium
+11.11.2022  15:47:44   Something went wrong       medium
+11.11.2022  15:47:44   Something went wrong       medium
+11.11.2022  15:47:44   RAM is full                high
+11.11.2022  15:47:44   Something went wrong       medium
+11.11.2022  15:47:44   Something went wrong       medium
+11.11.2022  15:47:44   RAM is full                high
+11.11.2022  15:47:44   Everything OK              Low
+11.11.2022  15:47:44   Harddisk is full           high
+11.11.2022  15:47:44   Harddisk is full           high
+11.11.2022  15:47:44   Something went wrong       medium
+11.11.2022  15:47:44   RAM is full                high
+11.11.2022  15:47:44   Pc is going to die         high
+11.11.2022  15:47:44   RAM is full                high
+11.11.2022  15:47:44   RAM is full                high
